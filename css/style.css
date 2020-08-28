@@ -3,10 +3,17 @@
   padding: 0;
 }
 
-/* Tablet */
-@media screen and (min-width: 48rem) {
+.grid img {
+  width: 64px;
+  height: auto;
+
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
 }
 
+/* Tablet */
+@media screen and (min-width: 48rem) {}
+
 /* Desktop */
-@media screen and (min-width: 64rem) {
-}
+@media screen and (min-width: 64rem) {}

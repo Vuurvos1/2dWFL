@@ -1,3 +1,3 @@
-# Project title
+# 2D Wave Function Collapse demonstatrion
 
-Hi :)
+More info about [WFC](https://github.com/mxgmn/WaveFunctionCollapse)
